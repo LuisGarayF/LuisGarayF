@@ -45,6 +45,18 @@ yo.saludar()
 * DJANGO
 * PYGAME
 
+# Herramientas
+
+* VSCode
+* Pycharm
+* PostgreSQL
+* SQLite
+* Postman
+* Entornos virtuales
+* Wordpress - Elementor
+* Trello
+
+
 # Contacto
 
 * [LinkedIn](linkedin.com/in/luisgarayfuentes/)
