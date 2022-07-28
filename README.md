@@ -27,7 +27,7 @@ class Desarrollador:
         for tool in range(len(self.tools)):
             print(f'\t-\t {self.tools[tool]}')
             
-        print(f"\t Muchas gracias por tu interés, no dudes en contactarme en mis RRSS")
+        print(f"\t Muchas gracias por tu interés, no dudes en contactarme")
 
 
 yo = Desarrollador()
