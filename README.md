@@ -59,6 +59,8 @@ yo.saludar()
 
 # Contacto
 
+<a href="linkedin.com/in/luisgarayfuentes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Luis Garay Fuentes" height="30" width="40" />linkedin</a>
+
 * [LinkedIn](linkedin.com/in/luisgarayfuentes/)
 * [E-mail](mailto:luis.alexander.garay@gmail.com)
 
