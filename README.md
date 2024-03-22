@@ -12,8 +12,8 @@ class Desarrollador:
         self.name = "Luis Garay"
         self.role = "Desarrollador"
         self.language_spoken = ["es_CL", "en_US"]
-        self.code = [ "HTML", "CSS", "JS", "PYTHON", "SQL","DJANGO", "PYGAME"]
-        self.tools = ["VIRTUALENV","POSTMAN","TRELLO","PYCHARM"]
+        self.code = [ "HTML", "CSS", "JAVASCRIPT", "PYTHON", "SQL","DJANGO", "PYGAME", "REACT JS", "PHP", "JAVA"]
+        self.tools = ["VIRTUALENV","POSTMAN","TRELLO","PYCHARM", "VSCODE", "JDEVELOPER", "WEBSTORM","IntelliJ IDEA", "SLACK", "JIRA", "GIT", "TOAD"]
 
     def saludar(self):
         print(f"\tHola mi nombre es {self.name}.")
@@ -44,17 +44,32 @@ yo.saludar()
 * SQL
 * DJANGO
 * PYGAME
+* REACT JS
+* PHP
+* JAVA
 
 # Herramientas
 
-* VSCode
+
 * Pycharm
 * PostgreSQL
 * SQLite
+* MySQL
+* ORACLE SQL
 * Postman
 * Entornos virtuales
 * Wordpress - Elementor
 * Trello
+* Pycharm
+* Visual Studio Code
+* Oracle JDeveloper
+* Webstorm
+* IntelliJ IDEA
+* Slack
+* Jira
+* GIT
+* Toad
+* VMWare
 
 
 # Contacto
